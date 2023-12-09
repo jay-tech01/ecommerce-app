@@ -1,0 +1,323 @@
+{
+  "Cart": {
+    "19069905": {
+      "SC02S": {
+        "category": "Tee",
+        "color": "",
+        "name": "Sunway College",
+        "price": 26,
+        "quantity": 2
+      },
+      "SU01XL": {
+        "category": "Tee",
+        "color": "",
+        "name": "Sunway University",
+        "price": 26,
+        "quantity": 7
+      },
+      "SU11S": {
+        "category": "Tee",
+        "color": "",
+        "name": "Sunway University",
+        "price": 36,
+        "quantity": 1
+      },
+      "SU21S": {
+        "category": "Hoodie",
+        "color": "",
+        "name": "Sunway University",
+        "price": 118,
+        "quantity": 5
+      }
+    }
+  },
+  "Pre_Order": {
+    "2023-12-03 11:31:3719069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "01/12/2023",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01XL",
+      "username": "Jay"
+    },
+    "2023-12-03 11:35:1519069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-03",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01XL",
+      "time": "1:35:15"
+    },
+    "2023-12-03 11:35:4619069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-03",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01XL",
+      "time": "11:35:46"
+    },
+    "2023-12-03 16:53:33 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-03",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU21S",
+      "time": "16:53:33"
+    },
+    "2023-12-04 07:26:34 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-04",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SC02S",
+      "time": "07:26:34"
+    },
+    "2023-12-04 07:26:40 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-04",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SC02S",
+      "time": "07:26:40"
+    },
+    "2023-12-04 07:27:13 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-04",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SC02S",
+      "time": "07:27:13"
+    },
+    "2023-12-04 10:48:30 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-04",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01XL",
+      "time": "10:48:30"
+    },
+    "2023-12-04 11:02:18 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-04",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU11S",
+      "time": "11:02:18"
+    },
+    "2023-12-04 12:15:39 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-04",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01XL",
+      "time": "12:15:39"
+    },
+    "2023-12-04 12:35:24 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-04",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01XL",
+      "time": "12:35:24"
+    },
+    "2023-12-06 10:37:21 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-06",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01XL",
+      "time": "10:37:21"
+    },
+    "2023-12-06 10:56:42 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-06",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU21S",
+      "time": "10:56:42"
+    },
+    "2023-12-07 09:37:57 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-07",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01L",
+      "time": "09:37:57"
+    },
+    "2023-12-07 09:42:11 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-07",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU01XXL",
+      "time": "09:42:11"
+    },
+    "2023-12-07 16:19:47 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-07",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU21S",
+      "time": "16:19:47"
+    },
+    "2023-12-07 16:21:17 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-07",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU21S",
+      "time": "16:21:17"
+    },
+    "2023-12-07 16:22:20 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-07",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SU21S",
+      "time": "16:22:20"
+    },
+    "2023-12-07 23:10:42 19069905": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "2023-12-07",
+      "payment_status": "Not Paid",
+      "pickup_status": "Waiting Store To Prepare",
+      "prodID": "SC02S",
+      "time": "23:10:42"
+    },
+    "Date": "",
+    "PO01": {
+      "Date": "11/01/23",
+      "payment_status": "Not Paid",
+      "pickup_status": "Ready To Pick Up",
+      "prodID": "SU01S, SU01L",
+      "userID": 19069905,
+      "userName": "Jagaanathan"
+    },
+    "PreOrderID": {
+      "UserID": "19069905@imail.sunway.edu.my",
+      "date": "01/12/2023",
+      "payment_status": "Not Paid",
+      "pickup_status": "Ready To Pick Up",
+      "prodID": "SU01XL",
+      "username": "Jay"
+    },
+    "payment_status": "",
+    "pickup_status": "",
+    "prodID": "",
+    "userID": "",
+    "userName": ""
+  },
+  "Products": {
+    "SC01S": {
+      "category": "Clothing",
+      "colour": "Blue",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2Ftee%2FCOA_Tee.png?alt=media&token=0165547f-b5c8-4a5e-92ff-d23f3c277296",
+      "name": "Sunway College",
+      "price": 26,
+      "size": "S",
+      "stkNo": 100,
+      "subCategory": "Tee",
+      "type": "COA"
+    },
+    "SC02S": {
+      "category": "Clothing",
+      "colour": "Green",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2FClothing%2FTee%2FCOA_SC_Green.png?alt=media&token=40817beb-b730-4f0a-8b0b-f6bbdef595f6",
+      "name": "Sunway College",
+      "price": 26,
+      "size": "S",
+      "stkNo": 99,
+      "subCategory": "Tee",
+      "type": "COA"
+    },
+    "SU01L": {
+      "category": "Clothing",
+      "colour": "Blue",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2Ftee%2FCOA_Tee.png?alt=media&token=0165547f-b5c8-4a5e-92ff-d23f3c277296",
+      "name": "Sunway University",
+      "price": 26,
+      "stkNo": 100,
+      "subCategory": "Tee",
+      "type": "COA",
+      "variant": "M"
+    },
+    "SU01M": {
+      "category": "Clothing",
+      "colour": "Blue",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2Ftee%2FCOA_Tee.png?alt=media&token=0165547f-b5c8-4a5e-92ff-d23f3c277296",
+      "name": "Sunway University",
+      "price": 26,
+      "stkNo": 100,
+      "subCategory": "Tee",
+      "type": "COA",
+      "variant": "M"
+    },
+    "SU01S": {
+      "category": "Clothing",
+      "colour": "Blue",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2Ftee%2FCOA_Tee.png?alt=media&token=0165547f-b5c8-4a5e-92ff-d23f3c277296",
+      "name": "Sunway University",
+      "price": 26,
+      "stkNo": 100,
+      "subCategory": "Tee",
+      "type": "COA",
+      "variant": "S"
+    },
+    "SU01XL": {
+      "category": "Clothing",
+      "colour": "Blue",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2Ftee%2FCOA_Tee.png?alt=media&token=0165547f-b5c8-4a5e-92ff-d23f3c277296",
+      "name": "Sunway University",
+      "price": 26,
+      "size": "XL",
+      "stkNo": 100,
+      "subCategory": "Tee",
+      "type": "COA",
+      "variant": "XL"
+    },
+    "SU01XXL": {
+      "category": "Clothing",
+      "colour": "Blue",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2Ftee%2FCOA_Tee.png?alt=media&token=0165547f-b5c8-4a5e-92ff-d23f3c277296",
+      "name": "Sunway University",
+      "price": 26,
+      "size": "XXL",
+      "stkNo": 100,
+      "subCategory": "Tee",
+      "type": "COA"
+    },
+    "SU02S": {
+      "category": "Clothing",
+      "colour": "Green",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2FClothing%2FTee%2FCOA_SU_Green.png?alt=media&token=5ffbf71f-4e2d-4eed-8532-05eee75c1e81",
+      "name": "Sunway University",
+      "price": 26,
+      "size": "S",
+      "stkNo": 100,
+      "subCategory": "Tee",
+      "type": "COA"
+    },
+    "SU11S": {
+      "category": "Clothing",
+      "colour": "Black",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2Ftee%2FClassic_Tee.png?alt=media&token=18330eae-4865-4a16-8da6-3051e7b58211",
+      "name": "Sunway University",
+      "price": 36,
+      "size": "S",
+      "stkNo": 100,
+      "subCategory": "Tee",
+      "type": "Classic"
+    },
+    "SU21S": {
+      "category": "Clothing",
+      "colour": "Melange",
+      "imgLink": "https://firebasestorage.googleapis.com/v0/b/sunway-originals.appspot.com/o/product_images%2FClothing%2FTee%2FHoodie_Melange.png?alt=media&token=961bc1b5-198a-47d2-b0db-c5d64bf8113f",
+      "name": "Sunway University",
+      "price": 118,
+      "size": "S",
+      "stkNo": 99,
+      "subCategory": "Hoodie",
+      "type": "Long Sleeve"
+    }
+  }
+}
