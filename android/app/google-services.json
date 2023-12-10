@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "861511305498",
+    "firebase_url": "https://sunway-originals-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sunway-originals",
+    "storage_bucket": "sunway-originals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861511305498:android:b93fb1c39b238857b404a3",
+        "android_client_info": {
+          "package_name": "com.example.capstoneproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPgdDummr3MyYv2nQLuGLEvwKxGZ4uS_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861511305498:android:ee35ce6715d66dc3b404a3",
+        "android_client_info": {
+          "package_name": "com.example.dummy_test_for_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPgdDummr3MyYv2nQLuGLEvwKxGZ4uS_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861511305498:android:abeefe546ea25dc3b404a3",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPgdDummr3MyYv2nQLuGLEvwKxGZ4uS_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
